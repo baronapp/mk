@@ -1,0 +1,79 @@
+{
+  "_from": "react-native-material-kit@^0.4.1",
+  "_id": "react-native-material-kit@0.4.1",
+  "_inBundle": false,
+  "_integrity": "sha1-vfxHJ+QUaYDhKe5bvrdWXbapGMw=",
+  "_location": "/react-native-material-kit",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "range",
+    "registry": true,
+    "raw": "react-native-material-kit@^0.4.1",
+    "name": "react-native-material-kit",
+    "escapedName": "react-native-material-kit",
+    "rawSpec": "^0.4.1",
+    "saveSpec": null,
+    "fetchSpec": "^0.4.1"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/react-native-material-kit/-/react-native-material-kit-0.4.1.tgz",
+  "_shasum": "bdfc4727e4146980e129ee5bbeb7565db6a918cc",
+  "_spec": "react-native-material-kit@^0.4.1",
+  "_where": "/Users/dtown/projects/appcameo",
+  "author": {
+    "name": "Yingxin Wu",
+    "email": "yingxinwu.g@gmail.com"
+  },
+  "bugs": {
+    "url": "https://github.com/xinthink/react-native-material-kit/issues"
+  },
+  "bundleDependencies": false,
+  "contributors": [
+    {
+      "name": "Quentin Valmori",
+      "url": "https://github.com/Crash--"
+    },
+    {
+      "name": "Alexander Price",
+      "url": "https://github.com/alexprice91"
+    }
+  ],
+  "dependencies": {
+    "ramda": "~0.21.0"
+  },
+  "deprecated": false,
+  "description": "Bringing Material Design to React Native",
+  "devDependencies": {
+    "babel-eslint": "^6.0.2",
+    "eslint": "^2.9.0",
+    "eslint-config-airbnb": "^6.2.0",
+    "eslint-plugin-react": "^4.3.0",
+    "gulp": "^3.9.0",
+    "gulp-docco": "0.0.4"
+  },
+  "homepage": "https://github.com/xinthink/react-native-material-kit",
+  "keywords": [
+    "react",
+    "native",
+    "react-component",
+    "react-native",
+    "react-native-component",
+    "ios",
+    "android",
+    "material design",
+    "MaterialKit"
+  ],
+  "license": "MIT",
+  "main": "lib/index.js",
+  "name": "react-native-material-kit",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/xinthink/react-native-material-kit.git"
+  },
+  "scripts": {
+    "lint": "eslint lib"
+  },
+  "version": "0.4.1"
+}
